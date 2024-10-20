@@ -1,0 +1,33 @@
+{
+  "name": "bth012-a1-part-a",
+  "version": "1.0.0",
+  "description": "The project template to use for BTH012 Assignment 1 part A",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pobengtsson/bth012-a1-part-a.git"
+  },
+  "keywords": [
+    "bth012"
+  ],
+  "author": "Per-Olof Bengtsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pobengtsson/bth012-a1-part-a/issues"
+  },
+  "homepage": "https://github.com/pobengtsson/bth012-a1-part-a#readme",
+  "devDependencies": {
+    "eslint": "^8.57.1",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.31.0",
+    "eslint-plugin-n": "^16.6.2",
+    "eslint-plugin-promise": "^6.6.0",
+    "eslint-plugin-vitest": "^0.4.1",
+    "vitest": "^2.1.3"
+  }
+}
